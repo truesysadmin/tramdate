@@ -1,3 +1,4 @@
 <?php 
- $secret="mf7T54hFg"
+ $secret="mf7T54hFg";
+ $defaultName = "_tram";
 ?>
